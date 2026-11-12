@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Local app data
+ledger.db
+*.db
+practice.db
+
+# OS files
+.DS_Store
+Thumbs.db
